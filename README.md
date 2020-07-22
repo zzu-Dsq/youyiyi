@@ -14,3 +14,12 @@ MarkDown是一种超文本语言，今天我第一次学习了它。
 有点意思，下面这张gif可以形容我的心情:
 ![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif)
 
+命令 
+git config --global user.name ""
+git config --global user.email ""
+git add -A
+git commit -m ""
+git push 
+git push origial master
+git pull
+git clone 
