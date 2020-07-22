@@ -20,6 +20,6 @@ git config --global user.email ""
 git add -A
 git commit -m ""
 git push 
-git push origial master
+git push origin master
 git pull
 git clone 
